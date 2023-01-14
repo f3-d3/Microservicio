@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Services.Common.Mapping
+build_property.ProjectDir = E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Mapping\

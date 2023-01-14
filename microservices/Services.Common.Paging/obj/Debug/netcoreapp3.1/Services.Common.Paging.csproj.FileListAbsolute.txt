@@ -1,0 +1,13 @@
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Paging\bin\Debug\netcoreapp3.1\Services.Common.Paging.deps.json
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Paging\bin\Debug\netcoreapp3.1\Services.Common.Paging.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Paging\bin\Debug\netcoreapp3.1\Services.Common.Paging.pdb
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Paging\bin\Debug\netcoreapp3.1\Services.Common.Collection.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Paging\bin\Debug\netcoreapp3.1\Services.Common.Collection.pdb
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Paging\obj\Debug\netcoreapp3.1\Services.Common.Paging.csproj.AssemblyReference.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Paging\obj\Debug\netcoreapp3.1\Services.Common.Paging.GeneratedMSBuildEditorConfig.editorconfig
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Paging\obj\Debug\netcoreapp3.1\Services.Common.Paging.AssemblyInfoInputs.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Paging\obj\Debug\netcoreapp3.1\Services.Common.Paging.AssemblyInfo.cs
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Paging\obj\Debug\netcoreapp3.1\Services.Common.Paging.csproj.CoreCompileInputs.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Paging\obj\Debug\netcoreapp3.1\Services.Common.Paging.csproj.CopyComplete
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Paging\obj\Debug\netcoreapp3.1\Services.Common.Paging.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Paging\obj\Debug\netcoreapp3.1\Services.Common.Paging.pdb

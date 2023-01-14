@@ -1,0 +1,13 @@
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Persistence.Database\bin\Debug\netcoreapp3.1\Catalogo.Persistence.Database.deps.json
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Persistence.Database\bin\Debug\netcoreapp3.1\Catalogo.Persistence.Database.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Persistence.Database\bin\Debug\netcoreapp3.1\Catalogo.Persistence.Database.pdb
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Persistence.Database\bin\Debug\netcoreapp3.1\Catalogo.Domain.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Persistence.Database\bin\Debug\netcoreapp3.1\Catalogo.Domain.pdb
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Persistence.Database\obj\Debug\netcoreapp3.1\Catalogo.Persistence.Database.csproj.AssemblyReference.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Persistence.Database\obj\Debug\netcoreapp3.1\Catalogo.Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Persistence.Database\obj\Debug\netcoreapp3.1\Catalogo.Persistence.Database.AssemblyInfoInputs.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Persistence.Database\obj\Debug\netcoreapp3.1\Catalogo.Persistence.Database.AssemblyInfo.cs
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Persistence.Database\obj\Debug\netcoreapp3.1\Catalogo.Persistence.Database.csproj.CoreCompileInputs.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Persistence.Database\obj\Debug\netcoreapp3.1\Catalogo.Persistence.Database.csproj.CopyComplete
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Persistence.Database\obj\Debug\netcoreapp3.1\Catalogo.Persistence.Database.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Persistence.Database\obj\Debug\netcoreapp3.1\Catalogo.Persistence.Database.pdb

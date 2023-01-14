@@ -1,0 +1,17 @@
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Services.EventHandlers\bin\Debug\netcoreapp3.1\Catalogo.Services.EventHandlers.deps.json
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Services.EventHandlers\bin\Debug\netcoreapp3.1\Catalogo.Services.EventHandlers.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Services.EventHandlers\bin\Debug\netcoreapp3.1\Catalogo.Services.EventHandlers.pdb
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Services.EventHandlers\bin\Debug\netcoreapp3.1\Catalago.Common.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Services.EventHandlers\bin\Debug\netcoreapp3.1\Catalogo.Domain.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Services.EventHandlers\bin\Debug\netcoreapp3.1\Catalogo.Persistence.Database.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Services.EventHandlers\bin\Debug\netcoreapp3.1\Catalago.Common.pdb
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Services.EventHandlers\bin\Debug\netcoreapp3.1\Catalogo.Persistence.Database.pdb
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Services.EventHandlers\bin\Debug\netcoreapp3.1\Catalogo.Domain.pdb
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Services.EventHandlers\obj\Debug\netcoreapp3.1\Catalogo.Services.EventHandlers.csproj.AssemblyReference.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Services.EventHandlers\obj\Debug\netcoreapp3.1\Catalogo.Services.EventHandlers.GeneratedMSBuildEditorConfig.editorconfig
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Services.EventHandlers\obj\Debug\netcoreapp3.1\Catalogo.Services.EventHandlers.AssemblyInfoInputs.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Services.EventHandlers\obj\Debug\netcoreapp3.1\Catalogo.Services.EventHandlers.AssemblyInfo.cs
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Services.EventHandlers\obj\Debug\netcoreapp3.1\Catalogo.Services.EventHandlers.csproj.CoreCompileInputs.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Services.EventHandlers\obj\Debug\netcoreapp3.1\Catalogo.Services.EventHandlers.csproj.CopyComplete
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Services.EventHandlers\obj\Debug\netcoreapp3.1\Catalogo.Services.EventHandlers.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Services.EventHandlers\obj\Debug\netcoreapp3.1\Catalogo.Services.EventHandlers.pdb

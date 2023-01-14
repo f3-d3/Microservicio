@@ -1,0 +1,10 @@
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Collection\bin\Debug\netcoreapp3.1\Services.Common.Collection.deps.json
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Collection\bin\Debug\netcoreapp3.1\Services.Common.Collection.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Collection\bin\Debug\netcoreapp3.1\Services.Common.Collection.pdb
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Collection\obj\Debug\netcoreapp3.1\Services.Common.Collection.csproj.AssemblyReference.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Collection\obj\Debug\netcoreapp3.1\Services.Common.Collection.GeneratedMSBuildEditorConfig.editorconfig
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Collection\obj\Debug\netcoreapp3.1\Services.Common.Collection.AssemblyInfoInputs.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Collection\obj\Debug\netcoreapp3.1\Services.Common.Collection.AssemblyInfo.cs
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Collection\obj\Debug\netcoreapp3.1\Services.Common.Collection.csproj.CoreCompileInputs.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Collection\obj\Debug\netcoreapp3.1\Services.Common.Collection.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Collection\obj\Debug\netcoreapp3.1\Services.Common.Collection.pdb

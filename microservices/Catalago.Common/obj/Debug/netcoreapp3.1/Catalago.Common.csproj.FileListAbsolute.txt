@@ -1,0 +1,10 @@
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalago.Common\bin\Debug\netcoreapp3.1\Catalago.Common.deps.json
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalago.Common\bin\Debug\netcoreapp3.1\Catalago.Common.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalago.Common\bin\Debug\netcoreapp3.1\Catalago.Common.pdb
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalago.Common\obj\Debug\netcoreapp3.1\Catalago.Common.csproj.AssemblyReference.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalago.Common\obj\Debug\netcoreapp3.1\Catalago.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalago.Common\obj\Debug\netcoreapp3.1\Catalago.Common.AssemblyInfoInputs.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalago.Common\obj\Debug\netcoreapp3.1\Catalago.Common.AssemblyInfo.cs
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalago.Common\obj\Debug\netcoreapp3.1\Catalago.Common.csproj.CoreCompileInputs.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalago.Common\obj\Debug\netcoreapp3.1\Catalago.Common.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalago.Common\obj\Debug\netcoreapp3.1\Catalago.Common.pdb

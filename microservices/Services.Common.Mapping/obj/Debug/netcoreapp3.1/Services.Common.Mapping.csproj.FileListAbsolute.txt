@@ -1,0 +1,10 @@
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Mapping\bin\Debug\netcoreapp3.1\Services.Common.Mapping.deps.json
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Mapping\bin\Debug\netcoreapp3.1\Services.Common.Mapping.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Mapping\bin\Debug\netcoreapp3.1\Services.Common.Mapping.pdb
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Mapping\obj\Debug\netcoreapp3.1\Services.Common.Mapping.csproj.AssemblyReference.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Mapping\obj\Debug\netcoreapp3.1\Services.Common.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Mapping\obj\Debug\netcoreapp3.1\Services.Common.Mapping.AssemblyInfoInputs.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Mapping\obj\Debug\netcoreapp3.1\Services.Common.Mapping.AssemblyInfo.cs
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Mapping\obj\Debug\netcoreapp3.1\Services.Common.Mapping.csproj.CoreCompileInputs.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Mapping\obj\Debug\netcoreapp3.1\Services.Common.Mapping.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Services.Common.Mapping\obj\Debug\netcoreapp3.1\Services.Common.Mapping.pdb

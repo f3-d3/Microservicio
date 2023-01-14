@@ -1,0 +1,10 @@
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Common.Logging\bin\Debug\netcoreapp3.1\Common.Logging.deps.json
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Common.Logging\bin\Debug\netcoreapp3.1\Common.Logging.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Common.Logging\bin\Debug\netcoreapp3.1\Common.Logging.pdb
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.csproj.AssemblyReference.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.GeneratedMSBuildEditorConfig.editorconfig
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.AssemblyInfoInputs.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.AssemblyInfo.cs
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.csproj.CoreCompileInputs.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Common.Logging\obj\Debug\netcoreapp3.1\Common.Logging.pdb

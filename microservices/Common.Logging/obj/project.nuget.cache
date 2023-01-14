@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HoAc+7TdMDyj4FcIvEEyA2ckVYjZUNowGM5hkGROYAoZswibHEFj9Ag0Sr1susf5PIuAt8GVW4r9AWVoy/lm8Q==",
+  "success": true,
+  "projectFilePath": "E:\\DePrati\\Proyectos\\CapacitacionNetCore\\microservices\\Common.Logging\\Common.Logging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fedep\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.19\\microsoft.extensions.logging.abstractions.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

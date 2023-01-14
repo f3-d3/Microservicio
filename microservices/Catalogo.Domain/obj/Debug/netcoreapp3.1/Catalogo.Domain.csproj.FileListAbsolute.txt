@@ -1,0 +1,10 @@
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Domain\bin\Debug\netcoreapp3.1\Catalogo.Domain.deps.json
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Domain\bin\Debug\netcoreapp3.1\Catalogo.Domain.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Domain\bin\Debug\netcoreapp3.1\Catalogo.Domain.pdb
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Domain\obj\Debug\netcoreapp3.1\Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Domain\obj\Debug\netcoreapp3.1\Catalogo.Domain.AssemblyInfoInputs.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Domain\obj\Debug\netcoreapp3.1\Catalogo.Domain.AssemblyInfo.cs
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Domain\obj\Debug\netcoreapp3.1\Catalogo.Domain.csproj.CoreCompileInputs.cache
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Domain\obj\Debug\netcoreapp3.1\Catalogo.Domain.dll
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Domain\obj\Debug\netcoreapp3.1\Catalogo.Domain.pdb
+E:\DePrati\Proyectos\CapacitacionNetCore\microservices\Catalogo.Domain\obj\Debug\netcoreapp3.1\Catalogo.Domain.csproj.AssemblyReference.cache
